@@ -1,0 +1,22 @@
+/* Write your code here. */
+.main-container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.heading-content {
+  color: white;
+}
+.image {
+  width: 300px;
+  height: 200px;
+}
